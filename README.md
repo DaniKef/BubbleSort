@@ -1,2 +1,2 @@
 # BubbleSort
-BubbleSort c++
+C++. Just compile.
